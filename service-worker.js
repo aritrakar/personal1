@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aritrakar/personal-website-v1/public/index.html/precache-manifest.09de0314f7e0566196834d9c3dba94e9.js"
+  "/aritrakar/personal-website-v1/public/index.html/precache-manifest.7a4534568d605927da8d2047445d9dd6.js"
 );
 
 self.addEventListener('message', (event) => {

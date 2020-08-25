@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7e634c60c5983c2e98af53f149c85fe",
+    "revision": "e52f2a17149eac4170356bee32769f7c",
     "url": "/aritrakar/personal-website-v1/public/index.html/index.html"
   },
   {
-    "revision": "cc9eb4b372e9ecfc9b24",
+    "revision": "84bd7f2b84328516e877",
     "url": "/aritrakar/personal-website-v1/public/index.html/static/css/main.91d73110.chunk.css"
   },
   {
-    "revision": "a8a826a6d53edc40fe5e",
-    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/2.f41bd186.chunk.js"
+    "revision": "3199fc04ca4bdcbc17d7",
+    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/2.805ef8f7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/2.f41bd186.chunk.js.LICENSE.txt"
+    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/2.805ef8f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc9eb4b372e9ecfc9b24",
-    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/main.fe46e0b1.chunk.js"
+    "revision": "84bd7f2b84328516e877",
+    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/main.a2f4744a.chunk.js"
   },
   {
-    "revision": "98c1e9e790a8ea5b96a7",
-    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/runtime-main.a759adb3.js"
+    "revision": "bc092931f6b5100c7c1b",
+    "url": "/aritrakar/personal-website-v1/public/index.html/static/js/runtime-main.2e67c8fb.js"
   },
   {
     "revision": "c5f6fb44656c1ed9f08014737010f387",
