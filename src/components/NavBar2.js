@@ -31,6 +31,9 @@ function NavBar2() {
           <Link to="/Projects">
             <li className="nav-item active">Projects</li>
           </Link>
+          <a href="../Resume">
+            <li className="nav-item active">Résumé</li>
+          </a>
           <Link to="/Pictures">
             <li className="nav-item active">Pictures</li>
           </Link>
