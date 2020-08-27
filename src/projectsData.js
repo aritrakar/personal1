@@ -22,7 +22,7 @@ const items = [
     Name: "To Do App",
     Description: "First React.js project. Simple To-Do app.",
     Used: "React.js, JavaScript, CSS, HTML",
-    Demo: "",
+    Demo: "https://aritrakar.github.io/todo/",
     Github: "https://github.com/aritrakar/JS/tree/master/To%20Do",
   },
   {
