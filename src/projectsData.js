@@ -31,7 +31,7 @@ const items = [
     Description:
       "Generates a random background color (RGB or Hex) and sets the color accordingly. Simple JS exercise.",
     Used: "JavaScript, CSS, HTML",
-    Demo: "./Projects/ColorPicker/index.html",
+    Demo: "https://aritrakar.github.io/ProjectsHub/ColorPicker/index.html",
     Github: "https://github.com/aritrakar/JS/tree/master/ColorPicker",
   },
   {
@@ -40,7 +40,7 @@ const items = [
     Description:
       "An attempt to recreate the classic game. See if you can beat the computer!",
     Used: "JavaScript, CSS, HTML",
-    Demo: "",
+    Demo: "https://aritrakar.github.io/ProjectsHub/Pong/index.html",
     Github: "https://github.com/aritrakar/JS/tree/master/pong",
   },
   {
@@ -49,7 +49,8 @@ const items = [
     Description:
       'Simple single-player game to "devour" the moving balls in the least time.',
     Used: "JavaScript, CSS, HTML",
-    Demo: "",
+    Demo:
+      "https://aritrakar.github.io/ProjectsHub/Bouncing%20Balls/index2.html",
     Github: "https://github.com/aritrakar/JS/tree/master/bouncing-balls",
   },
 ];
