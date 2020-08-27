@@ -16,7 +16,6 @@ function ProjectItem(props) {
           </h2>
           <p className="lead">{props.text}</p>
           <p className="lead">{props.moreText}</p>
-          {/*<Link to={`/Projects/${props.path}`}>See</Link>*/}
           <a
             href={props.evenMoreText}
             target="_blank"
