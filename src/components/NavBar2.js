@@ -8,6 +8,7 @@ import {
   faLinkedin,
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
+import resume from "../Resume.pdf";
 
 function NavBar2() {
   return (
@@ -31,7 +32,7 @@ function NavBar2() {
           <Link to="/Projects">
             <li className="nav-item active">Projects</li>
           </Link>
-          <a href="../Resume">
+          <a href={resume} target="_blank" rel="noopener noreferrer">
             <li className="nav-item active">Résumé</li>
           </a>
           <Link to="/Pictures">
