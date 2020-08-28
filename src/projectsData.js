@@ -11,6 +11,15 @@ const items = [
   },
   {
     id: 2,
+    Name: "COIVD-19 Tracker v1",
+    Description:
+      "A simple single-page app with the latest stats on the pandemic.",
+    Used: "React.js, JavaScript, CSS, HTML",
+    Demo: "https://aritrakar.github.io/covid-tracker-v1/",
+    Github: "https://github.com/aritrakar/covid-tracker-v1",
+  },
+  {
+    id: 3,
     Name: "Pathfinding Visualizer",
     Description: "Inspired by Clement Mihailescu.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -18,7 +27,7 @@ const items = [
     Github: "https://github.com/aritrakar/pathfinding_visualizer",
   },
   {
-    id: 3,
+    id: 4,
     Name: "To Do App",
     Description: "First React.js project. Simple To-Do app.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -26,7 +35,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/To%20Do",
   },
   {
-    id: 4,
+    id: 5,
     Name: "ColorPicker",
     Description:
       "Generates a random background color (RGB or Hex) and sets the color accordingly. Simple JS exercise.",
@@ -35,7 +44,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/ColorPicker",
   },
   {
-    id: 5,
+    id: 6,
     Name: "Pong",
     Description:
       "An attempt to recreate the classic game. See if you can beat the computer!",
@@ -44,7 +53,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/pong",
   },
   {
-    id: 6,
+    id: 7,
     Name: "Bouncing Balls",
     Description:
       'Simple single-player game to "devour" the moving balls in the least time.',
