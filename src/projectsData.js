@@ -20,6 +20,14 @@ const items = [
   },
   {
     id: 3,
+    Name: "Krypto v1",
+    Description: "A simple cryptocurrency dashboard.",
+    Used: "React.js, JavaScript, CSS, HTML",
+    Demo: "https://aritrakar.github.io/krypto-v1/",
+    Github: "https://github.com/aritrakar/krypto-v1",
+  },
+  {
+    id: 4,
     Name: "Pathfinding Visualizer",
     Description: "Inspired by Clement Mihailescu.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -27,7 +35,7 @@ const items = [
     Github: "https://github.com/aritrakar/pathfinding_visualizer",
   },
   {
-    id: 4,
+    id: 5,
     Name: "To Do App",
     Description: "First React.js project. Simple To-Do app.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -35,7 +43,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/To%20Do",
   },
   {
-    id: 5,
+    id: 6,
     Name: "ColorPicker",
     Description:
       "Generates a random background color (RGB or Hex) and sets the color accordingly. Simple JS exercise.",
@@ -44,7 +52,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/ColorPicker",
   },
   {
-    id: 6,
+    id: 7,
     Name: "Pong",
     Description:
       "An attempt to recreate the classic game. See if you can beat the computer!",
@@ -53,7 +61,7 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/pong",
   },
   {
-    id: 7,
+    id: 8,
     Name: "Bouncing Balls",
     Description:
       'Simple single-player game to "devour" the moving balls in the least time.',
