@@ -2,7 +2,7 @@ import React from "react";
 import Item from "./Item.js";
 import aritra from "../gallery/aritra.png";
 import p1 from "../gallery/IMG_0115.JPG";
-import gear from "../gallery/gear.png";
+//import gear from "../gallery/gear.png";
 import "../index.css";
 import Header from "./Header.js";
 

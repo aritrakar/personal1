@@ -5,7 +5,8 @@ import "../index.css";
 
 export default class Pictures extends React.Component {
   render() {
-    const images = pictures.map((picture, i) => (
+    const temp = pictures.sort(() => Math.random() - 0.5);
+    const images = temp.map((picture, i) => (
       //<div key={i}>
       <a key={i} href={picture} target="_blank" rel="noopener noreferrer">
         <img src={picture} alt="img" border="0" id="pictures" />

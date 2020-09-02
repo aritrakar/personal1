@@ -1,13 +1,12 @@
 import React from "react";
-import "./App.css";
 import "./bootstrap.css";
 import "./index.css";
 import { NavBar2, Home, Projects, Pictures } from "./components";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ textAlign: "center" }}>
       <Router>
         <NavBar2 />
         <Switch>
@@ -22,5 +21,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

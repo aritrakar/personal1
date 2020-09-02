@@ -15,7 +15,7 @@ function NavBar2() {
     <nav className="navbar navbar-expand-md navbar-dark fixed-top">
       {" "}
       {/* bg-dark */}
-      <a className="navbar-brand" href="/Home">
+      <a className="navbar-brand" href="/personal1">
         AK
       </a>{" "}
       {/* Done */}
@@ -24,11 +24,9 @@ function NavBar2() {
         {/* collapse */}
         <ul className="navbar-nav mr-auto">
           {" "}
-          {/* Done */}
           <Link to="/personal1">
             <li className="nav-item active">Home</li>
           </Link>{" "}
-          {/* Done */}
           <Link to="/personal1/Projects">
             <li className="nav-item active">Projects</li>
           </Link>

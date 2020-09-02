@@ -1,4 +1,4 @@
-const items = [
+export const items = [
   {
     id: 1,
     Name: "WhatsApp Chatbot v1",
@@ -71,5 +71,3 @@ const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/bouncing-balls",
   },
 ];
-
-export default items;

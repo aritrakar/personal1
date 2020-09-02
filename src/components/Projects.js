@@ -1,18 +1,12 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import items from "../projectsData";
 import Header from "./Header";
 
-let projectArray = [];
+const local = require("../projects.json");
 
-class Projects extends React.Component {
-  constructor() {
-    super();
-    this.state = { data: items };
-  }
-
+export default class Projects extends React.Component {
   render() {
-    projectArray = this.state.data.map((d) => (
+    const projectArray = local.items.map((d) => (
       <ProjectItem
         key={d.id}
         side="right"
@@ -24,7 +18,7 @@ class Projects extends React.Component {
       />
     ));
 
-    console.log(projectArray);
+    //console.log(projectArray);
 
     return (
       <div>
@@ -38,5 +32,3 @@ class Projects extends React.Component {
     );
   }
 }
-
-export default Projects;
