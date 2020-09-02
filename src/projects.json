@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "Name": "COIVD-19 Tracker v1",
+      "Name": "COVID-19 Tracker v1",
       "Description": "A simple single-page app with the latest stats on the pandemic.",
       "Used": "React.js, JavaScript, CSS, HTML",
       "Demo": "https://aritrakar.github.io/covid-tracker-v1/",
