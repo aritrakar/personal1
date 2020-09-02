@@ -15,7 +15,11 @@ export default class Pictures extends React.Component {
     ));
     return (
       <div>
-        <Header text="Pictures" />
+        <Header
+          text="Pictures"
+          subText={"Beauty lies in the eyes of the beholder"}
+          quote={true}
+        />
         <div id="">{images}</div> {/*picture-container */}
       </div>
     );
