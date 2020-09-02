@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/personal1/static/css/main.b2ce7436.chunk.css",
-    "main.js": "/personal1/static/js/main.00d2d9b8.chunk.js",
-    "main.js.map": "/personal1/static/js/main.00d2d9b8.chunk.js.map",
+    "main.css": "/personal1/static/css/main.c6a68166.chunk.css",
+    "main.js": "/personal1/static/js/main.6a9e15d3.chunk.js",
+    "main.js.map": "/personal1/static/js/main.6a9e15d3.chunk.js.map",
     "runtime-main.js": "/personal1/static/js/runtime-main.b234ad9c.js",
     "runtime-main.js.map": "/personal1/static/js/runtime-main.b234ad9c.js.map",
-    "static/js/2.9dd4ea49.chunk.js": "/personal1/static/js/2.9dd4ea49.chunk.js",
-    "static/js/2.9dd4ea49.chunk.js.map": "/personal1/static/js/2.9dd4ea49.chunk.js.map",
+    "static/js/2.ca01e884.chunk.js": "/personal1/static/js/2.ca01e884.chunk.js",
+    "static/js/2.ca01e884.chunk.js.map": "/personal1/static/js/2.ca01e884.chunk.js.map",
     "index.html": "/personal1/index.html",
-    "precache-manifest.c1006d73265343775e3bd1e10e442ff6.js": "/personal1/precache-manifest.c1006d73265343775e3bd1e10e442ff6.js",
+    "precache-manifest.98c0309fe6a296791f23561cdb6dff63.js": "/personal1/precache-manifest.98c0309fe6a296791f23561cdb6dff63.js",
     "service-worker.js": "/personal1/service-worker.js",
-    "static/css/main.b2ce7436.chunk.css.map": "/personal1/static/css/main.b2ce7436.chunk.css.map",
-    "static/js/2.9dd4ea49.chunk.js.LICENSE.txt": "/personal1/static/js/2.9dd4ea49.chunk.js.LICENSE.txt",
+    "static/css/main.c6a68166.chunk.css.map": "/personal1/static/css/main.c6a68166.chunk.css.map",
+    "static/js/2.ca01e884.chunk.js.LICENSE.txt": "/personal1/static/js/2.ca01e884.chunk.js.LICENSE.txt",
     "static/media/IMG_0115.JPG": "/personal1/static/media/IMG_0115.c5f6fb44.JPG",
     "static/media/Resume.pdf": "/personal1/static/media/Resume.cd2f9f77.pdf",
-    "static/media/aritra.png": "/personal1/static/media/aritra.d63e1427.png",
-    "static/media/gear.png": "/personal1/static/media/gear.f1388877.png"
+    "static/media/aritra.png": "/personal1/static/media/aritra.d63e1427.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b234ad9c.js",
-    "static/js/2.9dd4ea49.chunk.js",
-    "static/css/main.b2ce7436.chunk.css",
-    "static/js/main.00d2d9b8.chunk.js"
+    "static/js/2.ca01e884.chunk.js",
+    "static/css/main.c6a68166.chunk.css",
+    "static/js/main.6a9e15d3.chunk.js"
   ]
 }
