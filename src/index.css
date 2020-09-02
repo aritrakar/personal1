@@ -8,6 +8,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #0ec44a);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
 }
 
 code {
@@ -328,4 +332,22 @@ code {
 .navbar-expand-md {
   padding-right: 0.5rem;
   padding-left: 0.5rem;
+}
+
+#pictures {
+  min-width: 5%;
+  min-height: 10%;
+  max-width: 20%;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.1),
+    0 17px 50px 0 rgba(0, 0, 0, 0.09);
+}
+
+#picture-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
 }

@@ -18,11 +18,12 @@ export default function Home() {
         <Item
           side="right"
           heading="Who am I?"
-          text="I am Aritra Kar, a young technology enthusiast. I’m an excellence and results-driven, proactive, decisive team player. 
-          While naturally ambiverted, I enjoy taking on leadership roles as much as possible. I tend to observe people and situations 
-          and also take strategic decisions, especially when under pressure. I’m ambitious about computer science, artificial intelligence, 
-          and robotics and thus want to pursue the same in the future. In the past, I have dabbled in the field of Machine Learning and
-          Data Science using Python. Currently, I'm building small projects using HTML, CSS, JavaScript, React.js, Node.js and Python."
+          text="I am Aritra Kar, a 1st year student at the University of Waterloo. A young technology enthusiast, I’m an excellence and 
+          results-driven, proactive, decisive team player. While naturally ambiverted, I enjoy taking on leadership roles as much as possible. 
+          I tend to observe people and situations and also take strategic decisions, especially when under pressure. I’m ambitious about 
+          computer science, artificial intelligence, and robotics and thus want to pursue the same in the future. In the past, I have dabbled 
+          in the field of Machine Learning and Data Science using Python. Currently, I'm building small projects using JavaScript, Python,
+          HTML5/CSS3, React.js and Node.js."
           img={aritra}
         />
         <Item
@@ -33,12 +34,12 @@ export default function Home() {
           (Check out my gallery!) I also love dark chocolate. "
           img={p1}
         />
-        <Item
+        {/*<Item
           side="right"
           heading="Projects"
           text="Check out the Projects tab!"
           img={gear}
-        />
+        /> */}
       </div>
     </div>
   );

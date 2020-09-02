@@ -25,17 +25,17 @@ function NavBar2() {
         <ul className="navbar-nav mr-auto">
           {" "}
           {/* Done */}
-          <Link to="/Home">
+          <Link to="/personal1">
             <li className="nav-item active">Home</li>
           </Link>{" "}
           {/* Done */}
-          <Link to="/Projects">
+          <Link to="/personal1/Projects">
             <li className="nav-item active">Projects</li>
           </Link>
           <a href={resume} target="_blank" rel="noopener noreferrer">
             <li className="nav-item active">Résumé</li>
           </a>
-          <Link to="/Pictures">
+          <Link to="/personal1/Pictures">
             <li className="nav-item active">Pictures</li>
           </Link>
         </ul>
