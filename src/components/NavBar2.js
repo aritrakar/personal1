@@ -31,7 +31,7 @@ function NavBar2() {
             <li className="nav-item active">Projects</li>
           </Link>
           <a href={resume} target="_blank" rel="noopener noreferrer">
-            <li className="nav-item active">Résumé</li>
+            <li className="nav-item active">Resume</li>
           </a>
           <Link to="/personal1/Pictures">
             <li className="nav-item active">Pictures</li>
