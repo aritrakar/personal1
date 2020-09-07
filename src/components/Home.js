@@ -1,6 +1,7 @@
 import React from "react";
 import Item from "./Item.js";
 import aritra from "../gallery/aritra.png";
+import me from "../gallery/me.jpeg";
 //import gear from "../gallery/gear.png";
 import "../index.css";
 import Header from "./Header.js";
@@ -18,7 +19,7 @@ export default function Home() {
           side="right"
           heading="Who am I?"
           text="I am Aritra Kar, a 1st year Honors Computer Science Co-op student at the University of Waterloo. A young technology enthusiast, I’m an excellence and results-driven, proactive, decisive team player. I’m ambitious about computer science, artificial intelligence, and robotics and want to pursue the same in the future. In the past, I have dabbled in the field of Machine Learning and Data Science using Python. Currently, I'm building small projects using JavaScript, Python, HTML5/CSS3, React.js and Node.js."
-          img={aritra}
+          img={me}
         />
         <Item
           side="left"
