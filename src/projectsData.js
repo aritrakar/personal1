@@ -1,16 +1,46 @@
 export const items = [
   {
-    id: 1,
+    id: 11,
+    Name: "JARVIS v1",
+    Description:
+      "A personal AI voice assistant that can execute different commands issued to it by voice. Check README.md for more details.",
+    Used: "Python, Tensorflow",
+    Demo: "",
+    Github:
+      "https://github.com/aritrakar/Python-Projects/tree/master/Chatbot/Speech%20To%20Text",
+  },
+  {
+    id: 10,
+    Name: "Tic-Tac-Toe",
+    Description:
+      "A Tic-Tac-Toe player (no GUI) implementing the Minimax algorithm with Alpha-Beta pruning.",
+    Used: "Python",
+    Demo: "",
+    Github:
+      "https://github.com/aritrakar/Python-Projects/tree/master/Tic%20Tac%20Toe",
+  },
+  {
+    id: 9,
+    Name: "Blackjack simulator",
+    Description:
+      "A very simple Blackjack simulator that can play with the user.",
+    Used: "Python",
+    Demo: "",
+    Github:
+      "https://github.com/aritrakar/Python-Projects/tree/master/Blackjack",
+  },
+  {
+    id: 8,
     Name: "WhatsApp Chatbot v1",
     Description:
       "A simple chatbot that can respond to basic greetings and conversation hooks, fetch YouTube video Demos, news and Wikipedia articles.",
     Used: "Python, Selenium, BeautifulSoup",
     Demo: "",
     Github:
-      "https://github.com/aritrakar/Web-Scraping-Projects/tree/master/Chatbot",
+      "https://github.com/aritrakar/Python-Projects/tree/master/Chatbot/V1",
   },
   {
-    id: 2,
+    id: 7,
     Name: "COIVD-19 Tracker v1",
     Description:
       "A simple single-page app with the latest stats on the pandemic.",
@@ -19,7 +49,7 @@ export const items = [
     Github: "https://github.com/aritrakar/covid-tracker-v1",
   },
   {
-    id: 3,
+    id: 6,
     Name: "Krypto v1",
     Description: "A simple cryptocurrency dashboard.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -27,7 +57,7 @@ export const items = [
     Github: "https://github.com/aritrakar/krypto-v1",
   },
   {
-    id: 4,
+    id: 5,
     Name: "Pathfinding Visualizer",
     Description: "Inspired by Clement Mihailescu.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -35,7 +65,7 @@ export const items = [
     Github: "https://github.com/aritrakar/pathfinding_visualizer",
   },
   {
-    id: 5,
+    id: 4,
     Name: "To Do App",
     Description: "First React.js project. Simple To-Do app.",
     Used: "React.js, JavaScript, CSS, HTML",
@@ -43,7 +73,7 @@ export const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/To%20Do",
   },
   {
-    id: 6,
+    id: 3,
     Name: "ColorPicker",
     Description:
       "Generates a random background color (RGB or Hex) and sets the color accordingly. Simple JS exercise.",
@@ -52,7 +82,7 @@ export const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/ColorPicker",
   },
   {
-    id: 7,
+    id: 2,
     Name: "Pong",
     Description:
       "An attempt to recreate the classic game. See if you can beat the computer!",
@@ -61,7 +91,7 @@ export const items = [
     Github: "https://github.com/aritrakar/JS/tree/master/pong",
   },
   {
-    id: 8,
+    id: 1,
     Name: "Bouncing Balls",
     Description:
       'Simple single-player game to "devour" the moving balls in the least time.',
