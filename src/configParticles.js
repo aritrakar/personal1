@@ -94,7 +94,7 @@ const particlesConfig = {
         speed: 3,
       },
       repulse: {
-        distance: 200,
+        distance: 150,
       },
       push: {
         particles_nb: 4,
