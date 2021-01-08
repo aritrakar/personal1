@@ -13,10 +13,11 @@ export default function App2() {
       style={{
         position: "relative",
         overflow: "hidden",
+        zIndex: "0",
       }}
     >
       <div style={{ position: "absolute" }}>
-        <Particles height="100%" width="100vw" params={particlesConfig} />
+        <Particles height="500vh" width="100vw" params={particlesConfig} />
       </div>
       <Router>
         <NavBar2 />

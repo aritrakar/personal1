@@ -84,6 +84,7 @@ code {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.1),
     0 17px 50px 0 rgba(0, 0, 0, 0.09);
   background-color: rgba(245, 245, 245, 0.8);
+  text-align: center;
 }
 
 #itemImage {
