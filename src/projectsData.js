@@ -1,5 +1,13 @@
 export const items = [
   {
+    id: 12,
+    Name: "Spotify clone",
+    Description: "IN PROGRESS. A simple one-page mini-clone of Spotify.",
+    Used: "React.js, Context API, Spotify API",
+    Demo: "",
+    Github: "https://github.com/aritrakar/spotify-clone-v1",
+  },
+  {
     id: 11,
     Name: "JARVIS v1",
     Description:
